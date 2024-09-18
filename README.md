@@ -1,6 +1,4 @@
-<div align="center">
 # Django website
-</div>
 
 This is the website I made watching Tutorial. Please let me know how it works and if there are any issues I will do my best to fix them 😊.
 
@@ -32,7 +30,10 @@ To deploy this Django website run
 ## Screenshots
 
 This is how the website looks.
-| ![App Screenshot](https://drive.google.com/uc?id=1dt7UFHYf2WIyy-In-xPDsTDdhVO7FLIp){width=300px}|
+<div style="text-align: center;">
+    <img src="https://drive.google.com/uc?id=1dt7UFHYf2WIyy-In-xPDsTDdhVO7FLIp" alt="My Image" style="width: 300px; height: auto;">
+</div>
+
 
 this how it looks on a mobile.
 ![App Screenshot](https://drive.google.com/uc?id=1TM3wKY8vo6NSpYzJLIRAxGwdcxnmC1_n)
