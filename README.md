@@ -37,6 +37,6 @@ This is how the website looks.
 
 this how it looks on a mobile.
 <div style="text-align: center;">
-    <img src="https://drive.google.com/uc?id=1TM3wKY8vo6NSpYzJLIRAxGwdcxnmC1_n" alt="My Image" style="width: 800px; height: auto;">
+    <img src="https://drive.google.com/uc?id=1TM3wKY8vo6NSpYzJLIRAxGwdcxnmC1_n" alt="My Image" style="width: 300px; height: 400px;">
 </div>
 
