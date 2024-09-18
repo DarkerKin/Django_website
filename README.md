@@ -31,9 +31,12 @@ To deploy this Django website run
 
 This is how the website looks.
 <div style="text-align: center;">
-    <img src="https://drive.google.com/uc?id=1dt7UFHYf2WIyy-In-xPDsTDdhVO7FLIp" alt="My Image" style="width: 300px; height: auto;">
+    <img src="https://drive.google.com/uc?id=1dt7UFHYf2WIyy-In-xPDsTDdhVO7FLIp" alt="My Image" style="width: 800px; height: auto;">
 </div>
 
 
 this how it looks on a mobile.
-![App Screenshot](https://drive.google.com/uc?id=1TM3wKY8vo6NSpYzJLIRAxGwdcxnmC1_n)
+<div style="text-align: center;">
+    <img src="https://drive.google.com/uc?id=1TM3wKY8vo6NSpYzJLIRAxGwdcxnmC1_n" alt="My Image" style="width: 800px; height: auto;">
+</div>
+
