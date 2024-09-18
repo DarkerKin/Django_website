@@ -32,4 +32,5 @@ To deploy this Django website run
 This is how the website looks.
 ![App Screenshot](https://drive.google.com/uc?id=1dt7UFHYf2WIyy-In-xPDsTDdhVO7FLIp)
 
-
+this how it looks on a mobile.
+![App Screenshot](https://drive.google.com/uc?id=1TM3wKY8vo6NSpYzJLIRAxGwdcxnmC1_n)
