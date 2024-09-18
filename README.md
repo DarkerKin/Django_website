@@ -30,7 +30,7 @@ To deploy this Django website run
 ## Screenshots
 
 This is how the website looks.
-![App Screenshot](https://drive.google.com/uc?id=1dt7UFHYf2WIyy-In-xPDsTDdhVO7FLIp)
+![App Screenshot](https://drive.google.com/uc?id=1dt7UFHYf2WIyy-In-xPDsTDdhVO7FLIp){width=300px}
 
 this how it looks on a mobile.
 ![App Screenshot](https://drive.google.com/uc?id=1TM3wKY8vo6NSpYzJLIRAxGwdcxnmC1_n)
