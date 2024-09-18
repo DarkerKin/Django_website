@@ -1,4 +1,6 @@
+<div align="center">
 # Django website
+</div>
 
 This is the website I made watching Tutorial. Please let me know how it works and if there are any issues I will do my best to fix them 😊.
 
