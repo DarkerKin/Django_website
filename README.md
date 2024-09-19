@@ -1,6 +1,6 @@
 # Django website
 
-This is the website I made watching Tutorial(<a href="https://www.youtube.com/watch?v=PtQiiknWUcI&t=327s">link</a>). Please let me know how it works and if there are any issues I will do my best to fix them 😊.
+This is the website I made watching Tutorial (<a href="https://www.youtube.com/watch?v=PtQiiknWUcI&t=327s" target="_blank">link</a>). Please let me know how it works and if there are any issues I will do my best to fix them 😊.
 
 
 
