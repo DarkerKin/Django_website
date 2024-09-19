@@ -1,6 +1,6 @@
 # Django website
 
-This is the website I made watching Tutorial. Please let me know how it works and if there are any issues I will do my best to fix them 😊.
+This is the website I made watching Tutorial(<a href="https://www.youtube.com/watch?v=PtQiiknWUcI&t=327s">link</a>). Please let me know how it works and if there are any issues I will do my best to fix them 😊.
 
 
 
@@ -24,7 +24,7 @@ To deploy this Django website run
   #run the manage python file
   python3 manage.py runserver
 ```
-
+> This deploy the website at <a href="http://127.0.0.1:8000">http://127.0.0.1:8000/</a>
 
 
 ## Screenshots
