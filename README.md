@@ -24,7 +24,7 @@ To deploy this Django website run
   #run the manage python file
   python3 manage.py runserver
 ```
-> This deploy the website at <a href="http://127.0.0.1:8000">http://127.0.0.1:8000/</a>
+> This website is deployed at <a href="http://127.0.0.1:8000">http://127.0.0.1:8000/</a>
 
 
 ## Screenshots
