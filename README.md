@@ -12,7 +12,7 @@ To deploy this Django website run
 
 ```bash
   #change the directory where the manage.py is located
-  cd ITCS_3135_Django
+  cd ITCS_3135_Django/studybud
 
   #make sure you have these python packages installed
   pip install django
